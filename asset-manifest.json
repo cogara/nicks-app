@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nicks-app/static/css/main.073c9b0a.css",
+    "main.js": "/nicks-app/static/js/main.21e2779c.js",
+    "static/js/787.b58b493b.chunk.js": "/nicks-app/static/js/787.b58b493b.chunk.js",
+    "static/media/logo.svg": "/nicks-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nicks-app/index.html",
+    "main.073c9b0a.css.map": "/nicks-app/static/css/main.073c9b0a.css.map",
+    "main.21e2779c.js.map": "/nicks-app/static/js/main.21e2779c.js.map",
+    "787.b58b493b.chunk.js.map": "/nicks-app/static/js/787.b58b493b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.21e2779c.js"
+  ]
+}
